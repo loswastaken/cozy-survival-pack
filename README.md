@@ -3,7 +3,7 @@
 packwiz pack for Los's "Cozy Survival" server: Minecraft 1.20.1, Forge 47.4.28. Links only, no mod files.
 
 Mods (server and client): Iron's Spells 'n Spellbooks, Botania, Ars Nouveau, YUNG's Better Dungeons, L_Ender's Cataclysm, Alex's Caves, Alex's Mobs, Naturalist, Critters and Companions, Just Enough Items, plus their libraries (Curios API, Patchouli, YUNG's API, Lionfish API, Citadel, GeckoLib, Architectury API, playerAnimator, Iron's Lib).
-Client only: Embeddium (performance), Oculus (shaders), YetAnotherConfigLib.
+Client only: Embeddium (performance), Oculus (shaders). YetAnotherConfigLib is on both sides (Critters and Companions needs it on the server too).
 
 Server: `dorkunify.duckdns.org:25569` (at home or on the VPN: `10.24.4.143:25569`). Whitelisted players only; send Los your Minecraft username first.
 
