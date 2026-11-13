@@ -1,0 +1,13 @@
+name = "Los Cozy Survival"
+author = "loswastaken"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "69636b85907573695c3394625f379cff6325132b5a360e4c22171389c45cb0f6"
+
+[versions]
+forge = "47.4.28"
+minecraft = "1.20.1"
